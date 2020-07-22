@@ -152,6 +152,8 @@ Manage multiple container very easily.
 > docker build
 > docker pull
 > docker run
+## Simple Calling Arrows
+- Docker  CLI -> HOST -> Registry Core.
 
-### Simple Calling Arrows
-Docker -> CLI -> HOST -> Registry Core
+
+Thankyou. 
