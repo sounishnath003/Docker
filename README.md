@@ -30,7 +30,7 @@ I'm Sounish Nath, student developer, specialized in **Web Development and Flutte
 I've been in the technical content side for the last 1 year and has taught numerous classes with respect to DevOps.
 
 # Deep Dive Into [Docker Container](https://www.docker.com/)
-`Containerization reduces wasted resources because each container only holds the application and related binaries or libraries. By allowing more containers in the environment without the need for more servers, containerization increases scalability anywhere from 10 to 100 times that of traditional VM environments`
+Containerization reduces wasted resources because each container only holds the application and related binaries or libraries. By allowing more containers in the environment without the need for more servers, containerization increases scalability anywhere from 10 to 100 times that of traditional VM environments
 
 ## What is Container?
 Docker is a set of platform as a service products that uses OS-level virtualization to deliver software in packages called containers. Containers are isolated from one another and bundle their own software, libraries and configuration files; they can communicate with each other through well-defined channels. All containers are run by a single operating system kernel and therefore use fewer resources than virtual machines. Similar like VM's.
@@ -89,7 +89,8 @@ Container best for scalability, than VM's.
 - Docker Volumns
 - Docker Networks
 - Docker Registry/HUB
-- 
+- Docker Compose
+- Docker Swram
 
 <br />
 
@@ -141,3 +142,16 @@ Docker engine its a technology for creation and management of docker files. A CL
 <br />
 
 
+# Docker Compose
+Run multiple continer in one go.
+
+# Docker Swarm
+Manage multiple container very easily.
+
+# Docker Architecture
+> docker build
+> docker pull
+> docker run
+
+### Simple Calling Arrows
+Docker -> CLI -> HOST -> Registry Core
