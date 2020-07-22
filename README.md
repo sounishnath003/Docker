@@ -88,7 +88,7 @@ Container best for scalability, than VM's.
 - Docker Object
 - Docker Volumns
 - Docker Networks
-- Docker Registry
+- Docker Registry/HUB
 - 
 
 <br />
